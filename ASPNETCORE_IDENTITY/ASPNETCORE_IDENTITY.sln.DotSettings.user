@@ -1,0 +1,7 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=27420e34_002D7c50_002D4b9e_002D93a7_002D24e7af356837/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ShouldReturnTicketBookingResultWithRequestValues" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::7A28F58B-1193-4117-97DC-CC488F518266::net5.0::Identity.Test.UnitTest1.ShouldReturnTicketBookingResultWithRequestValues&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::7A28F58B-1193-4117-97DC-CC488F518266::net5.0::Identity.Test.UnitTest1.ShouldReturnTicketBookingResultWithRequestValues_FindByValue&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
